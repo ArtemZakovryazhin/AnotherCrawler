@@ -1,0 +1,1 @@
+case class UriTitle (uri: String, title: Option[String])
